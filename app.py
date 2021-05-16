@@ -14,7 +14,7 @@ EST = pytz.timezone('US/Eastern')
 
 ##### MAIN #####
 def main():
-    print('----- Strating App -----')
+    print('----- Starting App -----')
     print('----- Fetching files in directory -----')
     files = selectFiles()
 
